@@ -1,0 +1,159 @@
+\t (00:00:00) allegro 16.5 P003 (v16-5-13C) i86
+\t (00:00:00)     Journal start - Mon Apr 08 11:20:36 2013
+\t (00:00:00)         Host=YWANG-PC User=michaelgod Pid=1360 CPUs=8
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/michaelgod/Dropbox/PCB_LIB/DRA/smd0402.dra
+\i (00:00:00) trapsize 88
+\i (00:00:00) trapsize 86
+\i (00:00:00) trapsize 88
+\i (00:00:00) trapsize 88
+\i (00:00:01) etchedit 
+\t (00:00:01) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:00:01) trapsize 127
+\i (00:00:01) trapsize 224
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 77.52 141.56
+\i (00:00:05) trapsize 448
+\i (00:01:43) open 
+\i (00:01:49) fillin "KTW7.dra"
+\t (00:01:49) Opening existing design...
+\i (00:01:50) fillin yes 
+\i (00:01:50) trapsize 198
+\d (00:01:51) Database opened: C:/Users/michaelgod/Dropbox/PCB_LIB/DRA/KTW7.dra
+\i (00:01:51) etchedit 
+\i (00:01:52) zoom out 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom out -0.980 1.726
+\i (00:01:52) trapsize 198
+\i (00:01:54) pick grid 4.561 16.212
+\t (00:01:54) last pick:  4.500  16.250
+\i (00:01:54) zoom in 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom in 4.561 16.212
+\i (00:01:54) trapsize 99
+\i (00:01:54) zoom in 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom in 4.087 16.212
+\i (00:01:54) trapsize 49
+\i (00:01:54) zoom in 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom in 4.068 16.203
+\i (00:01:54) trapsize 25
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out 4.063 16.139
+\i (00:01:54) trapsize 49
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 4.043 16.089
+\i (00:01:55) trapsize 99
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 3.988 16.069
+\i (00:01:55) trapsize 198
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 4.363 15.381
+\i (00:01:55) trapsize 198
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 4.244 15.104
+\i (00:01:55) trapsize 198
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 4.205 14.985
+\i (00:01:55) trapsize 198
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 4.046 14.827
+\i (00:01:55) trapsize 198
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 1.276 6.040
+\i (00:01:56) trapsize 99
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 0.504 5.229
+\i (00:01:56) trapsize 49
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 0.445 5.180
+\i (00:01:56) trapsize 25
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 0.445 5.180
+\i (00:01:56) trapsize 12
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 0.446 5.180
+\i (00:01:56) trapsize 6
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out 0.430 5.179
+\i (00:01:56) trapsize 12
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out 0.373 5.180
+\i (00:01:56) trapsize 25
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out 0.289 5.179
+\i (00:01:56) trapsize 50
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out -0.048 5.180
+\i (00:01:56) trapsize 99
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out -1.145 5.180
+\i (00:01:56) trapsize 198
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out 2.424 3.270
+\i (00:01:56) trapsize 198
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out 2.424 3.270
+\i (00:01:56) trapsize 198
+\i (00:01:57) zoom out 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out -4.067 4.299
+\i (00:01:57) trapsize 198
+\i (00:01:57) zoom out 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out -4.067 4.299
+\i (00:01:57) trapsize 198
+\i (00:01:57) zoom out 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out -4.067 4.259
+\i (00:01:57) trapsize 198
+\i (00:01:58) open 
+\i (00:02:03) fillin "KK81.dra"
+\t (00:02:03) Opening existing design...
+\i (00:02:05) fillin yes 
+\t (00:02:05) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:02:05) trapsize 65
+\d (00:02:05) Database opened: C:/Users/michaelgod/Dropbox/PCB_LIB/DRA/KK81.dra
+\i (00:02:05) etchedit 
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out 354.5 279.3
+\i (00:02:06) trapsize 65
+\i (00:02:06) open 
+\i (00:03:38) fillin "dcn1x3-2_5a.dra"
+\t (00:03:38) Opening existing design...
+\i (00:03:39) fillin yes 
+\i (00:03:39) trapsize 1324
+\d (00:03:39) Database opened: C:/Users/michaelgod/Dropbox/PCB_LIB/DRA/dcn1x3-2_5a.dra
+\i (00:03:39) etchedit 
+\i (00:03:40) open 
+\i (00:03:51) fillin "dcn1x3-2_54.dra"
+\t (00:03:51) Opening existing design...
+\i (00:03:52) fillin yes 
+\i (00:03:52) trapsize 838
+\d (00:03:52) Database opened: C:/Users/michaelgod/Dropbox/PCB_LIB/DRA/dcn1x3-2_54.dra
+\i (00:03:52) etchedit 
+\i (00:03:53) exit 
+\t (00:03:53)     Journal end - Mon Apr 08 11:24:30 2013

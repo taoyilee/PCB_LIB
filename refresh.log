@@ -1,0 +1,207 @@
+Mon Mar 04 02:46:06 2013				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Mon Mar 04 02:46:06 2013
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+Sun Mar 03 23:27:54 2013				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Mar 03 23:27:54 2013
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+Sun Mar 03 21:18:21 2013				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Mar 03 21:18:21 2013
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+Sun Mar 03 21:13:52 2013				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Mar 03 21:13:52 2013
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+Sun Mar 03 21:10:23 2013				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Mar 03 21:10:23 2013
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+Sun Mar 03 21:05:54 2013				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Mar 03 21:05:54 2013
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+Sun Mar 03 21:05:38 2013				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Mar 03 21:05:38 2013
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+Sun Mar 03 21:04:27 2013				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Mar 03 21:04:27 2013
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+Sun Mar 03 21:03:47 2013				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Mar 03 21:03:47 2013
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+Sun Mar 03 21:03:24 2013				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Mar 03 21:03:24 2013
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+Sun Aug 12 00:14:13 2012				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Aug 12 00:14:13 2012
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : sma_7819.dra                                  )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Sun Aug 12 00:14:13 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Aug 12 00:14:13 2012				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+OLD_LAYOUT_NAME = 'D:/Dropbox/PCB_LIB/DRA/sma_7819.dra';
+NEW_LAYOUT_NAME = '';
+REFRESH_MECHANICAL_SYMBOLS = 'NO';
+REFRESH_FORMAT_SYMBOLS = 'NO';
+REFRESH_PACKAGE_SYMBOLS = 'NO';
+REFRESH_SHAPE_SYMBOLS = 'YES';
+REFRESH_SYMBOL_PAD_STACKS = 'NO';
+REFRESH_SYMBOL_TEXT_LOCATIONS = 'NO';
+REFRESH_CUSTOM_DRILL_DATA = 'NO';
+
+
+------ Library Paths ------
+PSMPATH =  D:\Dropbox\PCB_LIB\DRA\ 
+
+PADPATH =  D:\Dropbox\PCB_LIB\DRA\ 
+
+
+------ Symbol Refresh Messages ------
+
+'SMA_7819_G'  symbol refreshed successfully.
+'SMA_7819_SM'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Completed refreshing all symbols successfully.

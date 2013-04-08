@@ -1,0 +1,19 @@
+(DEVICE FILE: dualband)
+
+PACKAGE dualband
+CLASS IC
+PINCOUNT 26
+
+PINORDER dualband  14 15 16 23 24 26 27 25 1 2,
+ 3 4 5 6 7 9 10 11 12 13,
+ 17 18 19 20 22 21
+
+PINSWAP dualband  14 15 16 23 24 26 27 25 1 2,
+ 3 4 5 6 7 9 10 11 12 13,
+ 17 18 19 20 22 21
+
+FUNCTION dualband dualband  14 15 16 23 24 26 27 25 1 2,
+ 3 4 5 6 7 9 10 11 12 13,
+ 17 18 19 20 22 21
+
+END

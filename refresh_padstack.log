@@ -1,0 +1,86 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : dualband2.dra                                 )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Mon Mar 04 02:55:22 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Mar 04 02:55:22 2013				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'C:/Users/michaelgod/Dropbox/PCB_LIB/DRA/dualband2.dra'
+Output design = ''
+Reset symbol text and size locations = 'YES'
+
+
+------ Library Paths ------
+PSMPATH =  C:\Users\michaelgod\Dropbox\PCB_LIB\DRA\ 
+
+PADPATH =  C:\Users\michaelgod\Dropbox\PCB_LIB\DRA\ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'DUALBAND2_GND'  pad stack refresh starting.
+
+     'DUALBAND2_GND'  pad stack refreshed successfully.
+     
+'DUALBAND2_3'  pad stack refresh starting.
+
+     'DUALBAND2_3'  pad stack refreshed successfully.
+     
+'DUALBAND2_1'  pad stack refresh starting.
+
+     'DUALBAND2_1'  pad stack refreshed successfully.
+     
+'DUALBAND2_2'  pad stack refresh starting.
+
+     'DUALBAND2_2'  pad stack refreshed successfully.
+     
+'DUALBAND2_4'  pad stack refresh starting.
+
+     'DUALBAND2_4'  pad stack refreshed successfully.
+     
+'DUALBAND2_5'  pad stack refresh starting.
+
+     'DUALBAND2_5'  pad stack refreshed successfully.
+     
+'DUALBAND2_VDD2'  pad stack refresh starting.
+
+     'DUALBAND2_VDD2'  pad stack refreshed successfully.
+     
+'DUALBAND2_VDD'  pad stack refresh starting.
+
+     'DUALBAND2_VDD'  pad stack refreshed successfully.
+     
+'WIREBOND_PAD9X9'  pad stack refresh starting.
+
+     'WIREBOND_PAD9X9'  pad stack refreshed successfully.
+     
+'WIREBOND_PAD6X9'  pad stack refresh starting.
+
+     'WIREBOND_PAD6X9'  pad stack refreshed successfully.
+     
+'WIREBOND_PAD8X12'  pad stack refresh starting.
+
+     'WIREBOND_PAD8X12'  pad stack refreshed successfully.
+     
+'DUALBAND2_GND2'  pad stack refresh starting.
+
+     'DUALBAND2_GND2'  pad stack refreshed successfully.
+     
+'WIREBOND_PAD9X6'  pad stack refresh starting.
+
+     'WIREBOND_PAD9X6'  pad stack refreshed successfully.
+     
+'WIREBOND_PAD'  pad stack refresh starting.
+
+     'WIREBOND_PAD'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

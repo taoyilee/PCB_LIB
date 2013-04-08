@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SMA_7819_SM.dra                               )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Sun Aug 12 00:06:42 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = D:/Dropbox/PCB_LIB/DRA
+    Name      = sma_7819_sm.ssm
+    User      = michael
+    Machine   = MICHAEL-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

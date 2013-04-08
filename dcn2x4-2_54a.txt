@@ -1,0 +1,13 @@
+(DEVICE FILE: dcn2x4-2_54a)
+
+PACKAGE dcn2x4-2_54a
+CLASS IC
+PINCOUNT 8
+
+PINORDER dcn2x4-2_54a  1 8 7 2 6 3 5 4
+
+PINSWAP dcn2x4-2_54a  1 8 7 2 6 3 5 4
+
+FUNCTION dcn2x4-2_54a dcn2x4-2_54a  1 8 7 2 6 3 5 4
+
+END

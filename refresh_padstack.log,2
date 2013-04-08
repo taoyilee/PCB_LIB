@@ -1,0 +1,80 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : dualband2.dra                                 )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Sun Mar 03 21:18:58 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Mar 03 21:18:58 2013				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'C:/Users/michaelgod/Dropbox/PCB_LIB/DRA/dualband2.dra'
+Output design = ''
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.5/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/allegrolib/symbols 
+           C:\Users\michaelgod\Dropbox\PCB_LIB\DRA\ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.5/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.5/share/pcb/allegrolib/symbols 
+           C:\Users\michaelgod\Dropbox\PCB_LIB\DRA\ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'DUALBAND2_GND'  pad stack refresh starting.
+
+     'DUALBAND2_GND'  pad stack refreshed successfully.
+     
+'DUALBAND_PWR'  pad stack refresh starting.
+
+     'DUALBAND_PWR'  pad stack refreshed successfully.
+     
+'WIREBOND_PAD9X6'  pad stack refresh starting.
+
+     'WIREBOND_PAD9X6'  pad stack refreshed successfully.
+     
+'DUALBAND_1M'  pad stack refresh starting.
+
+     'DUALBAND_1M'  pad stack refreshed successfully.
+     
+'DUALBAND_GND1'  pad stack refresh starting.
+
+     'DUALBAND_GND1'  pad stack refreshed successfully.
+     
+'DUALBAND_2'  pad stack refresh starting.
+
+     'DUALBAND_2'  pad stack refreshed successfully.
+     
+'DUALBAND_1'  pad stack refresh starting.
+
+     'DUALBAND_1'  pad stack refreshed successfully.
+     
+'WIREBOND_PAD6'  pad stack refresh starting.
+
+     'WIREBOND_PAD6'  pad stack refreshed successfully.
+     
+'WIREBOND_PAD'  pad stack refresh starting.
+
+     'WIREBOND_PAD'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

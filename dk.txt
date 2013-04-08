@@ -1,0 +1,13 @@
+(DEVICE FILE: dk)
+
+PACKAGE dk
+CLASS IC
+PINCOUNT 2
+
+PINORDER dk  2 1
+
+PINSWAP dk  2 1
+
+FUNCTION dk dk  2 1
+
+END

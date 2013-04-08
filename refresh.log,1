@@ -1,0 +1,77 @@
+Sun Aug 12 00:12:10 2012				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Aug 12 00:12:10 2012
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : sma_7819.dra                                  )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Sun Aug 12 00:12:10 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Aug 12 00:12:10 2012				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+OLD_LAYOUT_NAME = 'D:/Dropbox/PCB_LIB/DRA/sma_7819.dra';
+NEW_LAYOUT_NAME = '';
+REFRESH_MECHANICAL_SYMBOLS = 'NO';
+REFRESH_FORMAT_SYMBOLS = 'NO';
+REFRESH_PACKAGE_SYMBOLS = 'NO';
+REFRESH_SHAPE_SYMBOLS = 'YES';
+REFRESH_SYMBOL_PAD_STACKS = 'NO';
+REFRESH_SYMBOL_TEXT_LOCATIONS = 'NO';
+REFRESH_CUSTOM_DRILL_DATA = 'NO';
+
+
+------ Library Paths ------
+PSMPATH =  D:\Dropbox\PCB_LIB\DRA\ 
+
+PADPATH =  D:\Dropbox\PCB_LIB\DRA\ 
+
+
+------ Symbol Refresh Messages ------
+
+'SMA_7819_G'  symbol refreshed successfully.
+'SMA_7819_SM'  symbol refreshed successfully.
+
+'SMA_7867LS_GND_L2'  symbol starting to refresh:
+     WARNING(SPMHNI-252): 'SMA_7867LS_GND_L2' symbol unable to find in directory search path.
+
+'SMA_7867LS_GND_L'  symbol starting to refresh:
+     WARNING(SPMHNI-252): 'SMA_7867LS_GND_L' symbol unable to find in directory search path.
+
+'SMA_7867LS_GND_2'  symbol starting to refresh:
+     WARNING(SPMHNI-252): 'SMA_7867LS_GND_2' symbol unable to find in directory search path.
+
+'SMA_7867LS_GNDB'  symbol starting to refresh:
+     WARNING(SPMHNI-252): 'SMA_7867LS_GNDB' symbol unable to find in directory search path.
+
+'SMA_7867LS_GND'  symbol starting to refresh:
+     WARNING(SPMHNI-252): 'SMA_7867LS_GND' symbol unable to find in directory search path.
+
+'TR_SMA7867LS'  symbol starting to refresh:
+     WARNING(SPMHNI-252): 'TR_SMA7867LS' symbol unable to find in directory search path.
+
+
+----- Symbol Update Summary ----
+
+Completed refreshing all symbols successfully. Warnings detected.
+       0  errors detected.
+       6  warnings detected.

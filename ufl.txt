@@ -1,0 +1,13 @@
+(DEVICE FILE: ufl)
+
+PACKAGE ufl
+CLASS IC
+PINCOUNT 3
+
+PINORDER ufl  3 2 1
+
+PINSWAP ufl  3 2 1
+
+FUNCTION ufl ufl  3 2 1
+
+END

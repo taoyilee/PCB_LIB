@@ -1,0 +1,13 @@
+(DEVICE FILE: dcn2x4)
+
+PACKAGE dcn2x4
+CLASS IC
+PINCOUNT 8
+
+PINORDER dcn2x4  1 2 3 4 5 6 7 8
+
+PINSWAP dcn2x4  1 2 3 4 5 6 7 8
+
+FUNCTION dcn2x4 dcn2x4  1 2 3 4 5 6 7 8
+
+END
