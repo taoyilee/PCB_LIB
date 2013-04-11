@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : dip14.dra                                     )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Tue Apr 09 22:10:05 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/michaelgod/Dropbox/PCB_LIB
+    Name      = dip14.psm
+    User      = michaelgod
+    Machine   = YWANG-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

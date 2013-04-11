@@ -1,0 +1,115 @@
+\t (00:00:00) apd 16.5 P003 (v16-5-13C) i86
+\t (00:00:00)     Journal start - Thu Apr 11 14:38:28 2013
+\t (00:00:00)         Host=YWANG-PC User=michaelgod Pid=13192 CPUs=8
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/michaelgod/Dropbox/PCB_LIB/dcn2x3.dra
+\i (00:00:00) trapsize 1121
+\i (00:00:00) trapsize 1098
+\i (00:00:00) trapsize 1125
+\i (00:00:00) trapsize 1125
+\i (00:00:01) generaledit 
+\i (00:00:03) open 
+\i (00:00:12) fillin "gpio_th.dra"
+\t (00:00:12) Opening existing design...
+\t (00:00:12) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:12) trapsize 999
+\d (00:00:12) Database opened: C:/Users/michaelgod/Dropbox/PCB_LIB/gpio_th.dra
+\i (00:00:12) generaledit 
+\i (00:00:15) padeditdb 
+\i (00:00:16) setwindow form.mini
+\i (00:00:16) FORM mini padlist GPIO_TH 
+\i (00:00:16) FORMDBLCLK mini padlist GPIO_TH 
+\i (00:00:19) setwindow form.padedit
+\i (00:00:19) FORM padedit layers  
+\i (00:00:20) FORM padedit parameters  
+\i (00:00:38) FORM padedit units Mils 
+\i (00:00:38) fillin yes 
+\w (00:00:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:44) FORM padedit hole_size_x 45 
+\i (00:00:45) FORM padedit layers  
+\i (00:00:46) FORM padedit grid row top 
+\i (00:00:50) FORM padedit width 60 
+\i (00:00:54) FORM padedit width_th 66 
+\i (00:00:55) FORM padedit width_ant 66 
+\i (00:00:56) FORM padedit height_ant 66 
+\i (00:00:57) FORM padedit grid rpopup top 'Copy to all' 
+\i (00:00:58) setwindow form.padcopy
+\i (00:00:58) FORM padcopy pse_copy_done  
+\i (00:01:00) setwindow form.padedit
+\i (00:01:00) FORM padedit parameters  
+\i (00:01:07) FORM padedit layers  
+\i (00:01:08) FORM padedit grid row bottom 
+\i (00:01:08) FORM padedit grid row soldermask_top 
+\i (00:01:10) FORM padedit width 66 
+\i (00:01:11) FORM padedit height 66 
+\i (00:01:12) FORM padedit parameters  
+\i (00:01:13) FORM padedit layers  
+\i (00:01:14) FORM padedit parameters  
+\i (00:01:18) pse_update 
+\w (00:01:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:19) pse_save 
+\i (00:01:20) fillin yes 
+\i (00:01:21) pse_exit
+\i (00:01:22) setwindow form.mini
+\i (00:01:22) FORM mini padlist GPIO_TH1 
+\i (00:01:22) FORMDBLCLK mini padlist GPIO_TH1 
+\i (00:01:30) setwindow form.padedit
+\i (00:01:30) FORM padedit units Mils 
+\i (00:01:31) fillin yes 
+\w (00:01:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:32) FORM padedit hole_size_x 45 
+\i (00:01:34) FORM padedit hole_pos_tolerance 0 
+\i (00:01:34) FORM padedit hole_neg_tolerance 0 
+\i (00:01:35) FORM padedit layers  
+\i (00:01:41) FORM padedit width 58 
+\i (00:01:45) FORM padedit width_th 64 
+\i (00:01:46) FORM padedit width_ant 64 
+\i (00:01:48) FORM padedit grid rpopup top 'Copy to all' 
+\i (00:01:49) setwindow form.padcopy
+\i (00:01:49) FORM padcopy pse_copy_done  
+\i (00:01:50) setwindow form.padedit
+\i (00:01:50) FORM padedit grid row soldermask_bottom 
+\i (00:01:50) FORM padedit grid row soldermask_top 
+\i (00:01:52) FORM padedit width 64 
+\i (00:01:53) FORM padedit grid row soldermask_bottom 
+\i (00:01:55) FORM padedit width 64 
+\i (00:01:56) pse_update 
+\w (00:01:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:57) pse_save 
+\i (00:01:58) fillin yes 
+\i (00:02:00) pse_exit
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 1.3745 -0.5688
+\i (00:02:00) trapsize 500
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in -0.2345 0.4806
+\i (00:02:01) trapsize 250
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 0.5450 0.3357
+\i (00:02:01) trapsize 500
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 1.1947 0.2258
+\i (00:02:01) trapsize 999
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 1.5145 0.2059
+\t (00:02:01) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:02:01) trapsize 1999
+\i (00:02:03) prepopup -28.5084 13.5183
+\i (00:02:04) done 
+\t (00:02:04) DRC Required please wait...
+\t (00:02:04) Performing DRC...
+\t (00:02:04) No DRC errors detected.
+\i (00:02:04) generaledit 
+\i (00:02:05) save 
+\i (00:02:06) fillin yes 
+\t (00:02:06) Symbol 'gpio_th.psm' created.
+\i (00:02:06) generaledit 
+\i (00:02:06) exit 
+\t (00:02:07)     Journal end - Thu Apr 11 14:40:35 2013

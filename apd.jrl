@@ -1,98 +1,18 @@
-\t (00:01:07) apd 16.5 P003 (v16-5-13C) i86
-\t (00:01:07)     Journal start - Mon Apr 08 14:47:28 2013
-\t (00:01:07)         Host=YWANG-PC User=michaelgod Pid=26380 CPUs=8
-\t (00:01:07) 
-\d (00:01:07) Database opened: C:/Users/michaelgod/Dropbox/PCB_LIB/7867LS_16mm.dra
-\i (00:01:07) etchedit 
-\i (00:01:07) zoom out 1 
-\i (00:01:07) setwindow pcb
-\i (00:01:07) zoom out 162.2 -226.4
-\i (00:01:07) trapsize 36
-\i (00:01:09) zoom in 1 
-\i (00:01:09) setwindow pcb
-\i (00:01:09) zoom in 21.5 -174.9
-\i (00:01:09) trapsize 18
-\i (00:01:09) zoom out 1 
-\i (00:01:09) setwindow pcb
-\i (00:01:09) zoom out 193.2 -186.1
-\i (00:01:09) trapsize 36
-\i (00:01:12) zoom in 1 
-\i (00:01:12) setwindow pcb
-\i (00:01:12) zoom in 279.5 -184.6
-\i (00:01:12) trapsize 18
-\i (00:01:13) zoom in 1 
-\i (00:01:13) setwindow pcb
-\i (00:01:13) zoom in 212.4 -170.0
-\i (00:01:13) trapsize 9
-\i (00:01:13) zoom in 1 
-\i (00:01:13) setwindow pcb
-\i (00:01:13) zoom in 212.5 -170.0
-\i (00:01:13) trapsize 5
-\i (00:01:14) zoom out 1 
-\i (00:01:14) setwindow pcb
-\i (00:01:14) zoom out 199.0 -168.7
-\i (00:01:14) trapsize 9
-\i (00:01:14) zoom out 1 
-\i (00:01:14) setwindow pcb
-\i (00:01:14) zoom out 187.2 -166.9
-\i (00:01:14) trapsize 18
-\i (00:01:14) zoom out 1 
-\i (00:01:14) setwindow pcb
-\i (00:01:14) zoom out 185.1 -170.6
-\i (00:01:14) trapsize 36
-\i (00:01:15) zoom out 1 
-\i (00:01:15) setwindow pcb
-\i (00:01:15) zoom out 185.1 -170.5
-\t (00:01:15) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
-\i (00:01:15) trapsize 73
-\i (00:01:16) zoom in 1 
-\i (00:01:16) setwindow pcb
-\i (00:01:16) zoom in 99.7 -273.6
-\t (00:01:16) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
-\i (00:01:16) trapsize 36
-\i (00:01:21) zoom out 1 
-\i (00:01:21) setwindow pcb
-\i (00:01:21) zoom out 332.7 -252.5
-\t (00:01:21) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
-\i (00:01:21) trapsize 73
-\i (00:01:22) zoom in 1 
-\i (00:01:22) setwindow pcb
-\i (00:01:22) zoom in 417.6 -108.8
-\t (00:01:22) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
-\i (00:01:22) trapsize 36
-\i (00:01:23) zoom in 1 
-\i (00:01:23) setwindow pcb
-\i (00:01:23) zoom in 422.6 -183.5
-\i (00:01:23) trapsize 18
-\i (00:01:23) zoom out 1 
-\i (00:01:23) setwindow pcb
-\i (00:01:23) zoom out 217.3 -128.7
-\i (00:01:23) trapsize 36
-\i (00:01:24) zoom out 1 
-\i (00:01:24) setwindow pcb
-\i (00:01:24) zoom out 450.2 -172.2
-\t (00:01:24) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
-\i (00:01:24) trapsize 73
-\i (00:01:24) zoom in 1 
-\i (00:01:24) setwindow pcb
-\i (00:01:24) zoom in -189.1 -143.1
-\t (00:01:24) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
-\i (00:01:24) trapsize 36
-\i (00:01:31) zoom in 1 
-\i (00:01:31) setwindow pcb
-\i (00:01:31) zoom in 316.7 -175.0
-\i (00:01:31) trapsize 18
-\i (00:01:32) zoom out 1 
-\i (00:01:32) setwindow pcb
-\i (00:01:32) zoom out 316.7 -174.9
-\i (00:01:32) trapsize 36
-\i (00:01:33) zoom in 1 
-\i (00:01:33) setwindow pcb
-\i (00:01:33) zoom in -62.1 -61.1
-\i (00:01:33) trapsize 18
-\i (00:01:33) zoom out 1 
-\i (00:01:33) setwindow pcb
-\i (00:01:33) zoom out 30.8 -39.3
-\i (00:01:33) trapsize 36
-\i (00:01:35) exit 
-\t (00:01:35)     Journal end - Mon Apr 08 14:47:56 2013
+\t (00:00:00) apd 16.5 P003 (v16-5-13C) i86
+\t (00:00:00)     Journal start - Thu Apr 11 14:41:32 2013
+\t (00:00:00)         Host=YWANG-PC User=michaelgod Pid=27320 CPUs=8
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/michaelgod/Dropbox/PCB_LIB/gpio_th.dra
+\t (00:00:00) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:00) trapsize 1992
+\i (00:00:00) trapsize 1950
+\i (00:00:00) trapsize 1999
+\i (00:00:00) trapsize 1999
+\i (00:00:01) generaledit 
+\i (00:00:02) open 
+\i (00:00:54) fillin "C:\Users\michaelgod\Dropbox\GIT\pcb\lib\fib_v1.dra"
+\i (00:00:54) cd "C:\Users\michaelgod\Dropbox\GIT\pcb\lib"
+\t (00:00:54) Opening existing design...
+\i (00:00:54) trapsize 51
+\t (00:00:54)     Journal end - Thu Apr 11 14:42:26 2013
