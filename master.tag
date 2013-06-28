@@ -1,1 +1,1 @@
-gpio_th.dra
+sma_smd.dra

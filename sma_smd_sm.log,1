@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sma_smd_sm.dra                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Jun 06 15:43:49 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = C:/Users/michael/Dropbox/PCB_LIB
+    Name      = sma_smd_sm.ssm
+    User      = michael
+    Machine   = ASDFG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

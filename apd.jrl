@@ -1,18 +1,23 @@
-\t (00:00:00) apd 16.5 P003 (v16-5-13C) i86
-\t (00:00:00)     Journal start - Thu Apr 11 14:41:32 2013
-\t (00:00:00)         Host=YWANG-PC User=michaelgod Pid=27320 CPUs=8
+\t (00:00:00) apd 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Thu Jun 06 15:57:59 2013
+\t (00:00:00)         Host=ASDFG User=michael Pid=6436 CPUs=8
 \t (00:00:00) 
 \t (00:00:00) Opening existing design...
-\d (00:00:00) Database opened: C:/Users/michaelgod/Dropbox/PCB_LIB/gpio_th.dra
-\t (00:00:00) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:00:00) trapsize 1992
-\i (00:00:00) trapsize 1950
-\i (00:00:00) trapsize 1999
-\i (00:00:00) trapsize 1999
+\d (00:00:00) Database opened: C:/Users/michael/Dropbox/PCB_LIB/sma_smd.dra
+\t (00:00:00) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:00:00) trapsize 372
+\i (00:00:00) trapsize 364
+\i (00:00:00) trapsize 373
+\i (00:00:00) trapsize 373
 \i (00:00:01) generaledit 
-\i (00:00:02) open 
-\i (00:00:54) fillin "C:\Users\michaelgod\Dropbox\GIT\pcb\lib\fib_v1.dra"
-\i (00:00:54) cd "C:\Users\michaelgod\Dropbox\GIT\pcb\lib"
-\t (00:00:54) Opening existing design...
-\i (00:00:54) trapsize 51
-\t (00:00:54)     Journal end - Thu Apr 11 14:42:26 2013
+\i (00:00:04) create device 
+\i (00:00:05) setwindow form.crdevice
+\i (00:00:05) FORM crdevice done  
+\t (00:00:05) Device file "sma_smd.txt" created.
+
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading axlcore.cxt 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) generaledit 
+\i (00:00:06) exit 
+\t (00:00:06)     Journal end - Thu Jun 06 15:58:05 2013

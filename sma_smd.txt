@@ -1,0 +1,13 @@
+(DEVICE FILE: sma_smd)
+
+PACKAGE sma_smd
+CLASS IC
+PINCOUNT 3
+
+PINORDER sma_smd  1 2 3
+
+PINSWAP sma_smd  1 2 3
+
+FUNCTION sma_smd sma_smd  1 2 3
+
+END
