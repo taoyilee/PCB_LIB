@@ -1,0 +1,109 @@
+\t (00:00:26) apd 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:26)     Journal start - Mon Jul 08 20:47:53 2013
+\t (00:00:26)         Host=ASDFG User=michael Pid=5184 CPUs=8
+\t (00:00:26) 
+\d (00:00:26) Database opened: C:/Users/michael/Dropbox/PCB_LIB/WM17723-ND.dra
+\i (00:00:26) generaledit 
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 78.14 -75.28
+\t (00:00:27) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:27) trapsize 746
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 599.99 -11.52
+\i (00:00:27) trapsize 746
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 70.51 -127.85
+\t (00:00:27) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:00:27) trapsize 373
+\i (00:00:33) Esc 
+\i (00:00:34) text edit 
+\i (00:00:35) pick grid 317.52 -3.31
+\t (00:00:35) last pick:  318.00  -3.00
+\i (00:00:35) setwindow pcb
+\i (00:00:35) pick grid 349.59 1.91
+\t (00:00:35) last pick:  350.00  2.00
+\i (00:00:35) setwindow pcb
+\i (00:00:35) pick 317.52 -3.31
+\e (00:00:35) ERROR(SPMHA1-441): Text not found.
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 261.59 -10.77
+\t (00:00:36) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:36) trapsize 746
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 403.11 80.96
+\t (00:00:36) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:00:36) trapsize 373
+\i (00:00:39) text edit 
+\i (00:00:39) pick grid 336.91 7.13
+\t (00:00:39) last pick:  337.00  7.00
+\i (00:00:40) setwindow pcb
+\i (00:00:40) pick grid 328.71 18.32
+\t (00:00:40) last pick:  329.00  18.00
+\i (00:00:40) setwindow pcb
+\i (00:00:40) pick 336.91 7.13
+\i (00:00:44) setwindow pcb
+\i (00:00:44) pick grid 169.87 10.11
+\t (00:00:44) last pick:  170.00  10.00
+\i (00:00:44) setwindow pcb
+\i (00:00:44) pick 328.71 18.32
+\t (00:00:44) Pick text to edit.
+\i (00:00:45) setwindow pcb
+\i (00:00:45) pick grid -17.31 9.37
+\t (00:00:45) last pick:  -17.00  9.00
+\i (00:00:45) setwindow pcb
+\i (00:00:45) pick 169.87 10.11
+\t (00:00:45) Pick text to edit.
+\e (00:00:45) ERROR(SPMHA1-441): Text not found.
+\i (00:00:47) setwindow pcb
+\i (00:00:47) pick grid -3.14 10.11
+\t (00:00:47) last pick:  -3.00  10.00
+\i (00:00:53) setwindow pcb
+\i (00:00:53) pick grid 336.17 212.21
+\t (00:00:53) last pick:  336.00  212.00
+\i (00:00:53) setwindow pcb
+\i (00:00:53) pick -3.14 10.11
+\t (00:00:53) Pick text to edit.
+\i (00:00:54) setwindow pcb
+\i (00:00:54) pick grid 336.17 233.09
+\t (00:00:54) last pick:  336.00  233.00
+\i (00:00:54) setwindow pcb
+\i (00:00:54) pick 336.17 212.21
+\i (00:00:56) setwindow pcb
+\i (00:00:56) pick grid 163.16 224.88
+\t (00:00:56) last pick:  163.00  225.00
+\i (00:00:56) setwindow pcb
+\i (00:00:56) pick 336.17 233.09
+\t (00:00:56) Pick text to edit.
+\i (00:00:57) setwindow pcb
+\i (00:00:57) pick grid -1.65 221.16
+\t (00:00:57) last pick:  -2.00  221.00
+\i (00:00:57) setwindow pcb
+\i (00:00:57) pick 163.16 224.88
+\t (00:00:57) Pick text to edit.
+\i (00:00:57) setwindow pcb
+\i (00:00:57) pick grid -161.24 219.66
+\t (00:00:57) last pick:  -161.00  220.00
+\i (00:00:57) setwindow pcb
+\i (00:00:57) pick -1.65 221.16
+\t (00:00:57) Pick text to edit.
+\e (00:00:57) ERROR(SPMHA1-441): Text not found.
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out -31.48 173.43
+\t (00:00:58) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:58) trapsize 746
+\i (00:00:59) save 
+\i (00:00:59) fillin yes 
+\t (00:01:00) Symbol 'wm17723-nd.psm' created.
+\i (00:01:00) generaledit 
+\i (00:01:53) pick grid -535.02 -54.77
+\t (00:01:53) last pick:  -535.00  -55.00
+\i (00:04:07) exit 
+\t (00:04:08)     Journal end - Mon Jul 08 20:51:35 2013
