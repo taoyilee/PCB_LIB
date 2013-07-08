@@ -3,17 +3,17 @@
 (    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : pv37w.dra                                     )
-(    Software Version : 16.5P002                                      )
-(    Date/Time        : Mon Apr 08 17:58:48 2013                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Jul 03 19:00:48 2013                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = C:/Users/michaelgod/Dropbox/PCB_LIB
+    Directory = C:/Users/michael/Dropbox/PCB_LIB
     Name      = pv37w.psm
-    User      = michaelgod
-    Machine   = YWANG-PC
+    User      = michael
+    Machine   = ASDFG
 
 
 Create symbol started.

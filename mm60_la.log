@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MM60_LA.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Jul 04 17:00:10 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/michael/Dropbox/PCB_LIB
+    Name      = mm60_la.psm
+    User      = michael
+    Machine   = ASDFG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

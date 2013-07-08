@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : dcn2x8.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Jul 03 21:31:46 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/michael/Dropbox/PCB_LIB
+    Name      = dcn2x8.psm
+    User      = michael
+    Machine   = ASDFG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

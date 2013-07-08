@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SO8.dra                                       )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Jul 03 23:52:53 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/michael/Dropbox/PCB_LIB
+    Name      = so8.psm
+    User      = michael
+    Machine   = ASDFG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

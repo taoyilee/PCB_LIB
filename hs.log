@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HS.dra                                        )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Jul 04 14:21:19 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/michael/Dropbox/PCB_LIB
+    Name      = hs.psm
+    User      = michael
+    Machine   = ASDFG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

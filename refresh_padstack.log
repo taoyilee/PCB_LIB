@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : AOZ1051PI.dra                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Jul 03 18:46:00 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Jul 03 18:46:00 2013				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'C:/Users/michael/Dropbox/PCB_LIB/AOZ1051PI.dra'
+Output design = ''
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/michael/Dropbox/GIT/pcb/lib 
+           C:/Users/michael/Dropbox/PCB_LIB 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           C:/Users/michael/Dropbox/GIT/pcb/lib 
+           C:/Users/michael/Dropbox/PCB_LIB 
+
+
+------ Pad Stack Refresh Messages ------
+
+'R271X370'  pad stack refresh starting.
+
+     'R271X370'  pad stack refreshed successfully.
+     
+'R08X22'  pad stack refresh starting.
+
+     'R08X22'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.
